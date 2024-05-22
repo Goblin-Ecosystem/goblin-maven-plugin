@@ -22,7 +22,7 @@ To run the plugin for some project, add the following configuration in the `pom.
     <reporting>
         <plugins>
             <plugin>
-                <groupId>com.sap.su.cifre</groupId>
+                <groupId>com.cifre.sap.su</groupId>
                 <artifactId>goblin-maven-plugin</artifactId>
                 <version>${goblin-maven-plugin.version}</version>
             </plugin>
