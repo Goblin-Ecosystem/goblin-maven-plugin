@@ -1,4 +1,4 @@
-package com.sap.su.cifre;
+package com.cifre.sap.su;
 
 // DOCUMENTATION
 // - https://maven.apache.org/guides/plugin/guide-java-report-plugin-development.html
